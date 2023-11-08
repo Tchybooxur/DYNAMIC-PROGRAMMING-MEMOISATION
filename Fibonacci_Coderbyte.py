@@ -2,7 +2,7 @@
 """
 Created on Tue May 23 17:11:44 2023
 
-@author: USER
+@author: CHIBUZOR
 """
 
 # Finding nth term fibonacci
